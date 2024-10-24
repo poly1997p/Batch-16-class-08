@@ -1,0 +1,22 @@
+.box{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    
+    
+    margin: auto;
+}
+.head{
+    color: white;
+    background-color: black;
+}
+.pera{
+    color: black;
+text-align: center;
+}
+.makeup{
+    background-color: blueviolet;
+    height: 300px;
+    width: 600px;
+    margin: auto;
+}
